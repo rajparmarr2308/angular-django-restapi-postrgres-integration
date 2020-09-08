@@ -3,7 +3,7 @@
 
 This is an integration of Angular form with django(rest) framework.
 
-postgres database used to store the data of the  the model(form).
+postgres database is used to store the data of the  the model(form).
 
 
 To run this :
