@@ -33,6 +33,6 @@ To run this :
                  
                  
                  
- You also get some requirements errors
+ You'll also get some requirements errors
  
  Don't worry Just Install them  and you are GOOD TO GO!!!!!!!!!!!!!!!!!!!!!
